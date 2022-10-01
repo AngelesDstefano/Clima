@@ -9,6 +9,7 @@
 body {
   padding: 0;
   margin: 0;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   background-image: url('./imag/img.jpg');
   background-size: cover;
   
